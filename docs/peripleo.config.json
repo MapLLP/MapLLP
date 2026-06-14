@@ -3,9 +3,9 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Paulinus of Nola carm 14.txt",
+      "name": "Visitors",
       "format": "LINKED_PLACES",
-      "src": "./data/Paulinus of Nola carm 14.txt.geojson",
+      "src": "./data/Visitors.json",
     }
   ],
   "facets": [
