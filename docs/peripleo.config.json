@@ -5,7 +5,7 @@
     {
       "name": "Paulinus of Nola carm 14.txt",
       "format": "LINKED_PLACES",
-      "src": "./data/Paulinus of Nola carm 14.txt.json",
+      "src": "./data/Paulinus of Nola carm 14.txt.geojson",
     }
   ],
   "facets": [
