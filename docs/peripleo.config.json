@@ -3,9 +3,9 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "es2pnhiybcd4xj",
-      "format": "RECOGITO_IMAGE",
-      "src": "docs/data/es2pnhiybcd4xj.jsonld",
+      "name": "Paul Rec Stud unchanged code",
+      "format": "LINKED_PLACES",
+      "src": "docs/data/Paul Rec Stud unchanged code.geojson",
     }
   ],
   "facets": [
