@@ -9,7 +9,7 @@
   "title":"Lucani",
   "description":"An ancient Oscan-speaking population of south Italy.",
   "types":{
-    "label": "Paulinus of Nola"},
+    "label": "Paulinus of Nola"}
 },
 "geometry":{
     "type":"Point",
@@ -22,7 +22,7 @@
 "title":"Apulia",
 "description":"Apulia is a region of the south-eastern Italian peninsula.",
 "types":{
-  "label":"Paulinus of Nola"},
+  "label":"Paulinus of Nola"}
 },
 "geometry":{
   "type":"Point",
@@ -35,8 +35,8 @@
 "title":"Calabria",
 "description":"Ancient Calabria comprised the southern part of Apulia and the Salento peninsula.",
 "types":{
-"label": "Paulinus of Nola"},
-}
+"label": "Paulinus of Nola"}
+},
 "geometry":{
 "type":"Point",
 "coordinates":[17.75,40.75]},
@@ -48,7 +48,7 @@
 "title":"Cales",
 "description":"Cales was an ancient city of Campania of Ausonian origins. The Romans captured the town in 335 B.C. and established a colony there.",
 "types":{
-"label":"Vergil, Aeneid 7"},
+"label":"Vergil, Aeneid 7"}
 },
 "geometry":{
 "type":"Point",
