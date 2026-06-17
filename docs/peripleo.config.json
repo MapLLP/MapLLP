@@ -9,7 +9,8 @@
     }
   ],
   "facets": [
-    "type"
+    {"type"},
+    {"name": "text","path":["relations", "label"]}
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
