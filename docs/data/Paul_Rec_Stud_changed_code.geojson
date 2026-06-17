@@ -1,5 +1,5 @@
 {
-"@id":"DATASET URL",
+"@id":"https://mapllp.github.io/MapLLP/#/4.50/5.0141/42.7675/mode=points",
 "type":"FeatureCollection","@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld","features":
 [
 {"type":"Feature","properties":
