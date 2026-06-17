@@ -9,7 +9,6 @@
     }
   ],
   "facets": [
-    {"type": "type"},
     {"name": "text","path":["types", "label"]}
   ],
   "link_icons": [
