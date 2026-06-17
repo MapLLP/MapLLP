@@ -4,7 +4,7 @@
   "data": [
     {
       "name": "Paul Rec Stud changed code",
-      "format": "LINKED_PLACES",
+      "format": "GEOJSON",
       "src": "data/Paul_Rec_Stud_changed_code.geojson"
     }
   ],
