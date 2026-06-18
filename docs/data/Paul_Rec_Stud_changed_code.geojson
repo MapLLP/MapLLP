@@ -1,7 +1,7 @@
 {
 "@id":"https://mapllp.github.io/MapLLP/#/?/?/?/mode=points",
 "type":"FeatureCollection",
-"@context":"https://raw.githubusercontent.com/LinkedPasts/linked-places/master/linkedplaces-context-v1.1.jsonld",
+"@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
 "features": [
 {
 "type":"Feature",
