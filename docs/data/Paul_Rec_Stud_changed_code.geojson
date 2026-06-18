@@ -6,51 +6,51 @@
 {
 "type":"Feature",
 "types": [{
-  "label":"Paulinus of Nola",
-  "identifier":"aat:300387203"}],
+	"label":"Paulinus of Nola",
+	"identifier":"aat:300387203"}],
 "properties": {
-  "title":"Lucani",
-  "description":"An ancient Oscan-speaking population of south Italy."},
+	"title":"Lucani",
+	"description":"An ancient Oscan-speaking population of south Italy."},
 "names": [{"toponym":"Lucani"}], 
 "geometry":{
-    "type":"Point",
-    "coordinates":[16.669239,40.220362]},
+	"type":"Point",
+	"coordinates":[16.669239,40.220362]},
 "@id":"https://pleiades.stoa.org/places/452371"},
 {
 "type":"Feature",
 "types":[{
-  "label":"Paulinus of Nola",
-  "identifier":"aat:300387347"}],
+	"label":"Paulinus of Nola",
+	"identifier":"aat:300387347"}],
 "properties":{
-  "title":"Apulia",
-  "description":"Apulia is a region of the south-eastern Italian peninsula."},
+	"title":"Apulia",
+	"description":"Apulia is a region of the south-eastern Italian peninsula."},
 "geometry":{
-  "type":"Point",
-  "coordinates":[15.75,41.25]},
+	"type":"Point",
+	"coordinates":[15.75,41.25]},
 "@id":"https://pleiades.stoa.org/places/442469"},
 {
 "type":"Feature",
 "types":[{
-  "label":"Paulinus of Nola",
-  "identifier":"aat:300387347"}],
+	"label":"Paulinus of Nola",
+	"identifier":"aat:300387347"}],
 "properties":{
-  "title":"Calabria",
-  "description":"Ancient Calabria comprised the southern part of Apulia and the Salento peninsula."},
+	"title":"Calabria",
+	"description":"Ancient Calabria comprised the southern part of Apulia and the Salento peninsula."},
 "geometry":{
-  "type":"Point",
-  "coordinates":[17.75,40.75]},
+	"type":"Point",
+	"coordinates":[17.75,40.75]},
 "@id":"https://pleiades.stoa.org/places/442518"},
 {
 "type":"Feature",
 "types":[{
-  "label":"Vergil, Aeneid 7",
-  "identifier":"aat:300008375"}],
+	"label":"Vergil, Aeneid 7",
+	"identifier":"aat:300008375"}],
 "properties":{
-  "title":"Cales",
-  "description":"Cales was an ancient city of Campania of Ausonian origins. The Romans captured the town in 335 B.C. and established a colony there."},
+	"title":"Cales",
+	"description":"Cales was an ancient city of Campania of Ausonian origins. The Romans captured the town in 335 B.C. and established a colony there."},
 "geometry":{
-  "type":"Point",
-  "coordinates":[14.1321245,41.199961]},
+	"type":"Point",
+	"coordinates":[14.1321245,41.199961]},
 "@id":"https://pleiades.stoa.org/places/432739"}
 ]
 }
