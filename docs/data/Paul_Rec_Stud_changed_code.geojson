@@ -14,10 +14,7 @@
 "geometry":{
     "type":"Point",
     "coordinates":[16.669239,40.220362]},
-"@id":"https://pleiades.stoa.org/places/452371",
-"links":[
-    {"type":"closeMatch",
-      "identifier":"https://pleiades.stoa.org/places/"}]
+"@id":"https://pleiades.stoa.org/places/452371"
 },
 {
 "type":"Feature",
@@ -30,10 +27,7 @@
 "geometry":{
   "type":"Point",
   "coordinates":[15.75,41.25]},
-  "@id":"https://pleiades.stoa.org/places/442469",
-"links":[
-    {"type":"closeMatch",
-      "identifier":"https://pleiades.stoa.org/places/"}]
+  "@id":"https://pleiades.stoa.org/places/442469"
 },
 {
 "type":"Feature",
@@ -47,10 +41,7 @@
 "geometry":{
 "type":"Point",
 "coordinates":[17.75,40.75]},
-"@id":"https://pleiades.stoa.org/places/442518",
-"links":[
-    {"type":"closeMatch",
-      "identifier":"https://pleiades.stoa.org/places/"}]
+"@id":"https://pleiades.stoa.org/places/442518"
 },
 {
 "type":"Feature",
@@ -63,9 +54,6 @@
 "geometry":{
 "type":"Point",
 "coordinates":[14.1321245,41.199961]},
-"@id":"https://pleiades.stoa.org/places/432739"},
-"links":[
-    {"type":"closeMatch",
-      "identifier":"https://pleiades.stoa.org/places/"}]
+"@id":"https://pleiades.stoa.org/places/432739"}
 ]
 }
