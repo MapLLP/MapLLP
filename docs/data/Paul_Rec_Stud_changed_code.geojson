@@ -55,8 +55,8 @@
 "type":"Point",
 "coordinates":[14.1321245,41.199961]},
 "@id":"https://pleiades.stoa.org/places/432739"}
-]
 "links":[
     {"type":"closeMatch",
       "identifier":"https://pleiades.stoa.org/places/"}]
+]
 }
