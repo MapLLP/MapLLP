@@ -9,7 +9,7 @@
   "title":"Lucani",
   "description":"An ancient Oscan-speaking population of south Italy."},
 "types":{
-    "label": "Paulinus of Nola"},
+    "label":"Paulinus of Nola"},
 "geometry":{
     "type":"Point",
     "coordinates":[16.669239,40.220362]},
@@ -33,7 +33,7 @@
 "title":"Calabria",
 "description":"Ancient Calabria comprised the southern part of Apulia and the Salento peninsula."},
 "types":{
-"label": "Paulinus of Nola"},
+"label":"Paulinus of Nola"},
 "geometry":{
 "type":"Point",
 "coordinates":[17.75,40.75]},
