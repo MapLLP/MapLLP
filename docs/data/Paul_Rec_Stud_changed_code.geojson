@@ -14,7 +14,7 @@
 "geometry":{
     "type":"Point",
     "coordinates":[16.669239,40.220362]},
-"@id":"https://pleiades.stoa.org/places/452371"
+    "@id":"https://pleiades.stoa.org/places/452371"
 },
 {
 "type":"Feature",
@@ -22,8 +22,8 @@
   "label":"Paulinus of Nola",
   "identifier":"aat:300387347"}],
 "properties":{
-"title":"Apulia",
-"description":"Apulia is a region of the south-eastern Italian peninsula."},
+  "title":"Apulia",
+  "description":"Apulia is a region of the south-eastern Italian peninsula."},
 "geometry":{
   "type":"Point",
   "coordinates":[15.75,41.25]},
@@ -33,15 +33,14 @@
 "type":"Feature",
 "types":[{
   "label":"Paulinus of Nola",
-  "identifier":"aat:300387347"
-  }],
+  "identifier":"aat:300387347"}],
 "properties":{
-"title":"Calabria",
-"description":"Ancient Calabria comprised the southern part of Apulia and the Salento peninsula."},
+  "title":"Calabria",
+  "description":"Ancient Calabria comprised the southern part of Apulia and the Salento peninsula."},
 "geometry":{
-"type":"Point",
-"coordinates":[17.75,40.75]},
-"@id":"https://pleiades.stoa.org/places/442518"
+  "type":"Point",
+  "coordinates":[17.75,40.75]},
+  "@id":"https://pleiades.stoa.org/places/442518"
 },
 {
 "type":"Feature",
@@ -49,11 +48,11 @@
   "label":"Vergil, Aeneid 7",
   "identifier":"aat:300008375"}],
 "properties":{
-"title":"Cales",
-"description":"Cales was an ancient city of Campania of Ausonian origins. The Romans captured the town in 335 B.C. and established a colony there."},
+  "title":"Cales",
+  "description":"Cales was an ancient city of Campania of Ausonian origins. The Romans captured the town in 335 B.C. and established a colony there."},
 "geometry":{
-"type":"Point",
-"coordinates":[14.1321245,41.199961]},
-"@id":"https://pleiades.stoa.org/places/432739"}
+  "type":"Point",
+  "coordinates":[14.1321245,41.199961]},
+  "@id":"https://pleiades.stoa.org/places/432739"}
 ]
 }
