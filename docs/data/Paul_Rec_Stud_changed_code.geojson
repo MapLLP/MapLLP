@@ -5,9 +5,9 @@
 "features": [
 {
 "type":"Feature",
-"types": {
+"types": [{
 	"label":"Paulinus of Nola",
-	"identifier":"aat:300387203"},
+	"identifier":"aat:300387203"}],
 "properties": {
 	"title":"Lucani",
 	"description":"An ancient Oscan-speaking population of south Italy."},
@@ -18,9 +18,9 @@
 "@id":"https://pleiades.stoa.org/places/452371"},
 {
 "type":"Feature",
-"types":{
+"types":[{
 	"label":"Paulinus of Nola",
-	"identifier":"aat:300387347"},
+	"identifier":"aat:300387347"}],
 "properties":{
 	"title":"Apulia",
 	"description":"Apulia is a region of the south-eastern Italian peninsula."},
@@ -30,9 +30,9 @@
 "@id":"https://pleiades.stoa.org/places/442469"},
 {
 "type":"Feature",
-"types":{
+"types":[{
 	"label":"Paulinus of Nola",
-	"identifier":"aat:300387347"},
+	"identifier":"aat:300387347"}],
 "properties":{
 	"title":"Calabria",
 	"description":"Ancient Calabria comprised the southern part of Apulia and the Salento peninsula."},
@@ -42,9 +42,9 @@
 "@id":"https://pleiades.stoa.org/places/442518"},
 {
 "type":"Feature",
-"types":{
+"types":[{
 	"label":"Vergil, Aeneid 7",
-	"identifier":"aat:300008375"},
+	"identifier":"aat:300008375"}],
 "properties":{
 	"title":"Cales",
 	"description":"Cales was an ancient city of Campania of Ausonian origins. The Romans captured the town in 335 B.C. and established a colony there."},
