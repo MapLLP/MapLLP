@@ -3,7 +3,7 @@
   "map_style": "./map-style-CAWM.json",
   "data": [
     {
-      "name": "Paul Rec Stud changed code",
+      "name": "Paul_Rec_Stud_changed_code",
       "format": "linkedplaces",
       "src": "data/Paul_Rec_Stud_changed_code.geojson"
     }
@@ -19,5 +19,8 @@
     { "pattern": "www.wikidata.org", "img": null, "label": "Wikidata" },
     { "pattern": "www.geonames.org", "img": null, "label": "GeoNames" },
     { "pattern": "sws.geonames.org", "img": null, "label": "GeoNames" }
-  ]
+  ],
+  "links":[
+    {"type":"closeMatch",
+      "identifier":"https://pleiades.stoa.org/places/"}]
 }
