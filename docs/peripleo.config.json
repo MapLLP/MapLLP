@@ -6,7 +6,8 @@
       "name": "Paul_Rec_Stud_changed_code",
       "format": "linkedplaces",
       "src": "data/Paul_Rec_Stud_changed_code.geojson"
-    },
+    }
+  ],
   "facets": [
     {"name": "text","path":["types","label"]},
     {"name": "location","path":["properties","title"]}
