@@ -20,7 +20,4 @@
     { "pattern": "www.geonames.org", "img": null, "label": "GeoNames" },
     { "pattern": "sws.geonames.org", "img": null, "label": "GeoNames" }
   ],
-  "links":[
-    {"type":"closeMatch",
-      "identifier":"https://pleiades.stoa.org/places/"}]
 }
