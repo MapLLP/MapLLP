@@ -6,11 +6,10 @@
       "name": "Paul_Rec_Stud_changed_code",
       "format": "linkedplaces",
       "src": "data/Paul_Rec_Stud_changed_code.geojson"
-    }
-  ],
+    },
   "facets": [
-    {"name": "location","path":["properties","title"]},
-    {"name": "text","path":["types","label"]}
+    {"name": "text","path":["types","label"]},
+    {"name": "location","path":["properties","title"]}
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
