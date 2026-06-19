@@ -8,10 +8,6 @@
       "src": "data/Paul_Rec_Stud_changed_code.geojson"
     }
   ],
-  "facets": [
-    {"name": "text","path":["types","label"]},
-    {"name": "location","path":["properties","title"]}
-  ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
     { "pattern": "www.geograph.org.uk", "img": "./logos/geograph.org.png", "label": "Geograph" },
