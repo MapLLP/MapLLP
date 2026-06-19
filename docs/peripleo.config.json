@@ -5,7 +5,10 @@
     {
       "name": "Paul_Rec_Stud_changed_code",
       "format": "linkedplaces",
-      "src": "data/Paul_Rec_Stud_changed_code.geojson"
+      "src": "data/Paul_Rec_Stud_changed_code.geojson",
+      "facets":[
+        "dataset",
+        "type"]
     }
   ],
   "facets":[
