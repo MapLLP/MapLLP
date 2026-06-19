@@ -11,9 +11,9 @@
         "type"]
     }
   ],
-  "facets":[
-    "dataset",
-    "type"
+  "facets": [
+    {"name": "text","path":["types","label"]},
+    {"name": "location","path":["properties","title"]}
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
