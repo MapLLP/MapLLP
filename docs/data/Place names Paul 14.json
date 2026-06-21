@@ -1,4 +1,5 @@
 {"@id":"https://mapllp.github.io/MapLLP/#/?/?/?/mode=points",
+"@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
 "type":"FeatureCollection","features":[
 	{
 	"@id":"https://pleiades.stoa.org/places/452371",
