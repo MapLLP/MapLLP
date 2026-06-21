@@ -9,8 +9,8 @@
   ],
   "map_style": "./map-style-CAWM.json",
   "facets": [
-    { "name": "Text","path":["types","label"]},
-    { "name": "Location","path":["properties","title"]}
+    { "name": "Texts","path":["types","label"]},
+    { "name": "Places","path":["properties","title"]}
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
