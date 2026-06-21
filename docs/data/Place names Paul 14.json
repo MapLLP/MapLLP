@@ -12,6 +12,7 @@
 	},
 	"types":[
 	{"label": "Paulinus of Nola"},
+	{"label": "Silius Italicus"}],
 	"geometry":{
 	"type":"Point",
 	"coordinates":[16.669239,40.220362]}
@@ -26,5 +27,6 @@
 	},
 	"types":[
 	{"label": "Paulinus of Nola"},
+		{"label": "Vergil Georgics"}],
 	"geometry":{"type":"Point","coordinates":[17.25,40.75]}
 }
