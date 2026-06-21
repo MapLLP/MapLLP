@@ -1,16 +1,16 @@
 {
   "initial_bounds": [-7.9, 49.5, 2.2, 59.4],
-  "map_style": "./map-style-CAWM.json",
   "data": [
     {
       "name": "Paul_Rec_Stud_changed_code",
-      "format": "linkedplaces",
+      "format": "LINKED_PLACES",
       "src": "data/Paul_Rec_Stud_changed_code.geojson"
     }
   ],
+  "map_style": "./map-style-CAWM.json",
   "facets": [
-    {"name": "text","path":["types","label"]},
-    {"name": "location","path":["properties","title"]}
+    { "name": "Text","path":["types","label"]},
+    { "name": "Location","path":["properties","title"]}
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
