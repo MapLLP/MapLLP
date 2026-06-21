@@ -6,12 +6,13 @@
 	"properties":{
 		"title":"Lucani",
 		"description":"An ancient Oscan-speaking population of south Italy.",
-		"quotes":["Lucani","Lucani"]},
+		"quotes":["Lucani","Lucani"]
+	},
 	"types":[
 	{"label": "Paulinus of Nola"},
 	"geometry":{
 	"type":"Point",
-	"coordinates":[16.669239,40.220362]},
+	"coordinates":[16.669239,40.220362]}
 },
 	{
 	"@id":"https://pleiades.stoa.org/places/442592",
@@ -19,8 +20,9 @@
 	"properties":{
 		"title":"Galaesus (river)",
 		"description":"Galaesus fl. (Galeso) was a small river of ancient Calabria that flowed into the Gulf of Tarentum.",
-		"quotes":["Galaesus","Galaesus"]},
+		"quotes":["Galaesus","Galaesus"]
+	},
 	"types":[
 	{"label": "Paulinus of Nola"},
-	"geometry":{"type":"Point","coordinates":[17.25,40.75]},
+	"geometry":{"type":"Point","coordinates":[17.25,40.75]}
 }
