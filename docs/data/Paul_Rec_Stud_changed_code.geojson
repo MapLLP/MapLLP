@@ -6,9 +6,8 @@
 {
 "type":"Feature",
 "types": [{
-	"label":"Paulinus of Nola",
-	"label":"Silius Italicus",
-	"identifier":"aat:300387203"}],
+	"label":"Paulinus of Nola"},
+	{"label":"Silius Italicus"}],
 "properties": {
 	"title":"Lucani",
 	"description":"An ancient Oscan-speaking population of south Italy."},
