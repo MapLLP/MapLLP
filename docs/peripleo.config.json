@@ -14,11 +14,17 @@
   ],
   "layers": [
     {
-      "name": "Navigable Rivers",
-      "type": "geojson",
-      "src": "../layers/inland_navigation_1348.geojson",
-      "color": "#5555ff",
-      "attribution": "<i><a href=\"https://doi.org/10.5284/1057497\" target=\"_blank\">Inland Navigation in England and Wales before 1348</a></i> © Eljas Oksanen (2019)"
+      "id": "dare-imperium",
+      "type": "raster",
+      "name": "Digital Atlas of the Roman Empire",
+      "source": {
+        "type": "tile",
+        "tileUrl": "https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png",
+        "tileSize": 256,
+        "maxZoom": 11,
+        "minZoom": 4
+      },
+      "opacity": 1
     },
     {
       "name": "Roman Routes",
