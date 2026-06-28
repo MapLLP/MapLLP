@@ -24,7 +24,8 @@
     "minzoom": 4,
     "maxzoom": 11,
     "attribution": "Digital Atlas of the Roman Empire"
-  }
+  },
+    "opacity":0.5,
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
