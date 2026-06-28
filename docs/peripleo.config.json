@@ -14,15 +14,17 @@
   ],
   "layer": [
     {
-      "id": "dare-imperium",
-      "type": "raster",
-      "name": "Digital Atlas of the Roman Empire",
-      "source": {
-        "type": "tile",
-        "url": "https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png"
-      },
-      "opacity": 1
-    }
+    "id": "dare-imperium",
+    "name": "Digital Atlas of the Roman Empire",
+    "type": "raster",
+    "tiles": [
+      "https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png"
+    ],
+    "tileSize": 256,
+    "minzoom": 4,
+    "maxzoom": 11,
+    "attribution": "Digital Atlas of the Roman Empire"
+  }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
