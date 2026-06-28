@@ -2,9 +2,9 @@
   "initial_bounds": [-7.9, 49.5, 2.2, 59.4],
   "data": [
     {
-      "name": "Place_names_Paul_14",
+      "name": "Paul_Rec_Stud_changed_code",
       "format": "LINKED_PLACES",
-      "src": "data/Place_names_Paul_14.json"
+      "src": "data/Paul_Rec_Stud_changed_code.geojson"
     }
   ],
   "map_style": "map-style-CAWM.json",
