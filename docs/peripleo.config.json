@@ -19,10 +19,7 @@
       "name": "Digital Atlas of the Roman Empire",
       "source": {
         "type": "tile",
-        "tileUrl": "https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png",
-        "maxZoom": 11,
-        "minZoom": 4,
-        "scheme": "tms"
+        "url": "https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png"
       },
       "opacity": 1
     }
