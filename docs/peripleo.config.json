@@ -7,7 +7,7 @@
       "src": "data/Paul_Rec_Stud_changed_code.geojson"
     }
   ],
-  "map_style": "./map-style-CAWM.json",
+  "map_style": "map-style-CAWM.json",
   "facets": [
     { "name": "Texts","path":["types","label"]},
     { "name": "Places","path":["properties","title"]}
