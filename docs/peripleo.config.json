@@ -22,7 +22,8 @@
         "tileUrl": "https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png",
         "tileSize": 256,
         "maxZoom": 11,
-        "minZoom": 4
+        "minZoom": 4,
+        "scheme": "tms"
       },
       "opacity": 1
     },
