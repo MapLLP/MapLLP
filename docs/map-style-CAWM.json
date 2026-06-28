@@ -11,18 +11,33 @@
       "maxzoom": 11,
       "tileSize": 256,
       "type": "raster",
-      "tiles": ["https://cawm.lib.uiowa.edu/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png/tiles/tiles/{z}/{x}/{y}.png"]
+      "tiles": [
+        "https://cawm.lib.uiowa.edu/tiles/%7Bz%7D/%7Bx%7D/%7By%7D.png/tiles/tiles/{z}/{x}/{y}.png"
+      ]
+    },
+    "Digital Atlas of the Roman Empire": {
+      "type": "raster",
+      "tileSize": 256,
+      "maxzoom": 11,
+      "tiles": [
+        "https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png"
+      ]
     }
   },
   "layers": [
-      {
-        "id": "Consortium of Ancient World Mappers",
-        "type": "raster",
-        "source": "Consortium of Ancient World Mappers",
-        "maxzoom": 11,
-        "layout": {
-          "visibility": "visible"
-        }
-      }
+    {
+      "id": "Consortium of Ancient World Mappers",
+      "type": "raster",
+      "source": "Consortium of Ancient World Mappers",
+      "maxzoom": 11,
+      "layout": { "visibility": "visible" }
+    },
+    {
+      "id": "dare-imperium",
+      "type": "raster",
+      "source": "Digital Atlas of the Roman Empire",
+      "maxzoom": 11,
+      "layout": { "visibility": "visible" }
+    }
   ]
 }
