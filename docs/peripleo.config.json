@@ -18,7 +18,7 @@
     "name": "Digital Atlas of the Roman Empire",
     "type": "raster",
     "tiles": [
-      "https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png"
+      "https://dh.gu.se/tiles/imperium/{z}/{x}/{-y}.png"
     ],
     "tileSize": 256,
     "minzoom": 4,
