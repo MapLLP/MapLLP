@@ -16,40 +16,460 @@
 	"coordinates":[16.669239,40.220362]},
 "@id":"https://pleiades.stoa.org/places/452371"},
 {
-"type":"Feature",
-"types":[{
-	"label":"Paulinus of Nola",
-	"identifier":"aat:300387347"}],
-"properties":{
-	"title":"Apulia",
-	"description":"Apulia is a region of the south-eastern Italian peninsula."},
-"geometry":{
-	"type":"Point",
-	"coordinates":[15.75,41.25]},
-"@id":"https://pleiades.stoa.org/places/442469"},
-{
-"type":"Feature",
-"types":[{
-	"label":"Paulinus of Nola",
-	"identifier":"aat:300387347"}],
-"properties":{
-	"title":"Calabria",
-	"description":"Ancient Calabria comprised the southern part of Apulia and the Salento peninsula."},
-"geometry":{
-	"type":"Point",
-	"coordinates":[17.75,40.75]},
-"@id":"https://pleiades.stoa.org/places/442518"},
-{
-"type":"Feature",
-"types":[{
-	"label":"Vergil, Aeneid 7",
-	"identifier":"aat:300008375"}],
-"properties":{
-	"title":"Cales",
-	"description":"Cales was an ancient city of Campania of Ausonian origins. The Romans captured the town in 335 B.C. and established a colony there."},
-"geometry":{
-	"type":"Point",
-	"coordinates":[14.1321245,41.199961]},
-"@id":"https://pleiades.stoa.org/places/432739"}
-]
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Georgics"}],
+      "properties": {
+        "title": "Galaesus (river)",
+        "description": "Galaesus fl. (Galeso) was a small river of ancient Calabria that flowed into the Gulf of Tarentum.",
+        "quotes": [
+          "Galaesus"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.25,
+          40.75
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/442592"
+    },
+    {
+    "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Silius Italicus"}],
+      "properties": {
+        "title": "Aquinum",
+        "description": "Aquinum was a municipium by the time of Cicero. It was thought to be the place of birth for the satirist Juvenal and the emperor Pescennius Niger.",
+        "quotes": [
+          "Aquinum"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.705626,
+          41.492208
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/432695"
+    },
+    {
+    "type": "Feature",
+      "types":[{"label": "Paulinus of Nola","identifier":"aat:300387178"}],
+      "properties": {
+        "title": "Apulia",
+        "description": "Apulia is a region of the south-eastern Italian peninsula.",
+        "quotes": [
+          "Apulia"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.75,
+          41.25
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/442469"
+    },
+    {
+    "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Aeneid 7"}],
+      "properties": {
+        "title": "Massicus",
+        "description": "Mons Massicus, a mountain ridge of ancient Italy, in the territory of the Aurunci, at the border of Latium and Campania.",
+        "quotes": [
+          "Massica"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.923,
+          41.171
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/432931"
+    },
+    {
+    "type": "Feature",
+      "types":[{"label": "Paulinus of Nola","identifier":"aat:300008372"}],
+      "properties": {
+        "title": "Teanum Apulum",
+        "description": "A town in ancient Apulia located between Larinum and and Sipontum. Rome took control of the site in 318 BC, granting it municipal status.",
+        "quotes": [
+          "Teanum Apulum;"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.261276,
+          41.739367
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/442815"
+    },
+    {
+    "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Silius Italicus"}],
+      "properties": {
+        "title": "Calabria",
+        "description": "Ancient Calabria comprised the southern part of Apulia and the Salento peninsula.",
+        "quotes": [
+          "Calabria"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.75,
+          40.75
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/442518"
+    },
+    {
+    "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Aeneid 7"}],
+      "properties": {
+        "title": "Aurunci",
+        "description": "The Aurunci were an Italic tribe of south Italy. Their territory was incorporated into the Roman territory in the fourth century B.C.",
+        "quotes": [
+          "Aurunci"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.768467,
+          41.242193
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/432711"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola","identifier":"aat:300387178"}],
+      "properties": {
+        "title": "Latium Vetus (region)",
+        "description": "Latium Vetus is an historical region of Italy. Latium Vetus begins south of the Tiber river and extends as far as Circeo, at which point the boundary of Latium Adiectum is reached.",
+        "quotes": [
+          "Latium"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.67841320945799,
+          41.8590959534665
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/422958"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Silius Italicus"}],
+      "properties": {
+        "title": "Venafrum",
+        "description": "Venafrum was an ancient town of Campania.",
+        "quotes": [
+          "Venafrum;"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.046066,
+          41.484488
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/433185"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola", "identifier":"aat:300387178"}],
+      "properties": {
+        "title": "Campania",
+        "description": "Campania was a region of southern Italy.",
+        "quotes": [
+          "Campania"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.622430012426932,
+          41.39018622389335
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/432742"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Aeneid 7"}],
+      "properties": {
+        "title": "Ufens (river)",
+        "description": "An ancient place, cited: BAtlas 44 D3 Ufens fl.",
+        "quotes": [
+          "Ufens"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12806151750877,
+          41.42510736343369
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/433175"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Aeneid 7"}],
+      "properties": {
+        "title": "Atina",
+        "description": "Atina was a Samnite hill town with a polygonal masonry fortification wall.",
+        "quotes": [
+          "Atina"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.797167920930878,
+          41.62071059269228
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/432708"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Aeneid 7"}],
+      "properties": {
+        "title": "Cales",
+        "description": "Cales was an ancient city of Campania of Ausonian origins. The Romans captured the town in 335 B.C. and established a colony there.",
+        "quotes": [
+          "Cales"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1321245,
+          41.199961
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/432739"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Silius Italicus"}],
+      "properties": {
+        "title": "Samnites",
+        "description": "An ancient, Oscan-speaking people who lived in the central southern part of the Apennine mountains in Italy.",
+        "quotes": [
+          "Samnites"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.75,
+          41.25
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/442765"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Georgics"}],
+      "properties": {
+        "title": "Capua",
+        "description": "An important ancient city of Campania with Villanovan and Etruscan origins.",
+        "quotes": [
+          "Capua"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.250207,
+          41.0860925
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/432754"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Georgics"}],
+      "properties": {
+        "title": "Tanager (river)",
+        "description": "An ancient place, cited: BAtlas 45 C4 Tanager fl.",
+        "quotes": [
+          "Tanager"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.482451249990342,
+          40.456544755562525
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/442809"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Aeneid 7"}],
+      "properties": {
+        "title": "Ardea",
+        "description": "Ardea was an ancient settlement of the Rutuli in Latium.",
+        "quotes": [
+          "Ardea"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.547028,
+          41.609389
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/422843"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola", "identifier":"aat:300008389"}],
+      "properties": {
+        "title": "Neapolis",
+        "description": "Founded as Parthenope by Greeks in the eighth century B.C., the site eventually gave rise to Neapolis in the sixth century B.C. and was one of the most prominent cities of Magna Graecia. Modern-day Naples, Italy.",
+        "quotes": [
+          "Neapolis"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25287,
+          40.839995
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/433014"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Aeneid 7"}],
+      "properties": {
+        "title": "Sarnus (river)",
+        "description": "An ancient place, cited: BAtlas 44 G4 Sarnus fl.",
+        "quotes": [
+          "Sarnus"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4708346,
+          40.7285981
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/433102"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Aeneid 7"}],
+      "properties": {
+        "title": "Aricia",
+        "description": "Aricia is an ancient Latin settlement and a member of the Latin League.",
+        "quotes": [
+          "Aricia"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.67334715,
+          41.72139965
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/422844"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola", "identifier":"aat:300008389"}],
+      "properties": {
+        "title": "Roma",
+        "description": "The capital of the Roman Republic and Empire.",
+        "quotes": [
+          "Roma"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.486137,
+          41.891775
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/423025"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola","identifier":"aat:300008375"}],
+      "properties": {
+        "title": "Teanum Sidicinum",
+        "description": "Teanum Sidicinum (modern Teano) was the capital of the Oscan-speaking Sidicini tribe. The city likely submitted to Rome after 334 B.C.",
+        "quotes": [
+          "Teanum Sidicum"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0700745,
+          41.2502785
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/433146"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Silius Italicus"}],
+      "properties": {
+        "title": "Gaurus M.",
+        "description": "An eruptive volcanic vent in the Phlegraean Fields.",
+        "quotes": [
+          "Gaurus"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.139,
+          40.827
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/432861"
+    },
+    {
+     "type": "Feature",
+      "types":[{"label": "Paulinus of Nola"},{"label": "Vergil, Aeneid 7"}],
+      "properties": {
+        "title": "Praeneste",
+        "description": "An ancient city of central Italy, the eighth and seventh century B.C. origins of which demonstrate high-level trade contact with the Eastern Mediterranean world. The city withdrew from the Latin League (499 B.C.) and opposed Rome in the Latin war; Cincinnatus eventually subdued Praeneste. Sulla founded a new colony there in the first century B.C.",
+        "quotes": [
+          "Praeneste"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8923075,
+          41.8394835
+        ]
+      },
+      "@id": "https://pleiades.stoa.org/places/423013"
+    }
+  ]
 }
